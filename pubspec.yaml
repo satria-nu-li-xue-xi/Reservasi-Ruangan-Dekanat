@@ -1,0 +1,9 @@
+name: RESERVASI_RUANGAN_DEKANAT
+description: Memudahkan Untuk Mereservasi Ruangan di Dekanat Fakultas MIPA Universitas Udayana
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  intl: ^0.17.0
